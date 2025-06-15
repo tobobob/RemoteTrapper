@@ -5,8 +5,9 @@ If you have any inquiries/bugs to report, please add me on discord; phoon1 - and
 
 # Setup
 
+1. Place 'Main' in ServerScriptService, or accomodate it to your current structure
+2. Move 'Init' under 'Main' as a direct child, and 'Whitelist', 'Webhook' parented to 'Init'
+3. Require the system in 'Main' and initiliase it (example script provided)
 
-
-# Devlog
-
+Last updated:
 6/15/25
