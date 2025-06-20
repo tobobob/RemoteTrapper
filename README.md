@@ -24,5 +24,6 @@ If you have any inquiries/bugs to report, please add me on discord; phoon1 - and
 - Removed group based for userid whitelisting
 - Folder structure converted
 
+If you need anything, message me!
 Last updated:
-6/15/25
+6/21/25
